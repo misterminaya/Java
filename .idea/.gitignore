@@ -6,8 +6,9 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-.java.iml
-.misc.xml
-.modules.xml
-.vcs.xml
-.tutorial.iml
+*.java.iml
+*.misc.xml
+*.modules.xml
+*.vcs.xml
+*.tutorial.iml
+*.idea
